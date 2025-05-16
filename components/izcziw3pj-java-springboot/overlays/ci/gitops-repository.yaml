@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: izcziw3pj-java-springboot-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/izcziw3pj-java-springboot-gitops
